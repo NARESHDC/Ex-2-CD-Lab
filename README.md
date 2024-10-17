@@ -1,6 +1,6 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
-## Name:N.magesh
-## Register No : 212222040091
+## Name:NARESH.M
+## Register No : 212223220064
 # AIM
 To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
@@ -85,4 +85,6 @@ int main() {
 
 # RESULT:
 The lexical analyzer is implemented using lex and the output is verified.
+
+
 
